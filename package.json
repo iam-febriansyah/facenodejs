@@ -1,0 +1,26 @@
+{
+  "name": "face",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Febriansyah",
+  "license": "ISC",
+  "keywords": [
+    "node.js",
+    "sequelize"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "canvas": "^2.8.0",
+    "cors": "^2.8.5",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "face-api.js": "^0.22.2",
+    "mongoose": "^6.0.8",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2",
+    "sequelize": "^6.6.5"
+  }
+}
